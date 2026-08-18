@@ -173,7 +173,7 @@ This makes it possible to visually verify whether the shapes were detected corre
 
 ---
 
-# 🔬 Computer Vision Pipeline
+#  Computer Vision Pipeline
 
 ```text
 Input Image
